@@ -1,0 +1,38 @@
+.team {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.icon.weakness {
+  color: #e00;
+  text-shadow: 1px 1px 1px #222;
+}
+
+.icon.strength {
+  color: #0e0;
+  text-shadow: 1px 1px 1px #222;
+}
+
+.selecting {
+  opacity: 0.4;
+  filter: alpha(opacity=40);
+
+  cursor: default;
+}
+
+.advice {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  max-width: 138px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding-left: 1.3em;
+}
