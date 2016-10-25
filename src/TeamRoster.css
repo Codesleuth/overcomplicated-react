@@ -1,3 +1,11 @@
+.team-member {
+  cursor: pointer;
+  background-image: url('assets/hero-portrait-detailed-bg.jpg');
+  background-repeat: no-repeat;
+  background-color: transparent;
+  background-position: center;
+}
+
 .team {
   display: flex;
   flex-wrap: wrap;

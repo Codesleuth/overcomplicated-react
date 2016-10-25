@@ -1,11 +1,3 @@
-:host {
-  cursor: pointer;
-  background-image: url('assets/hero-portrait-detailed-bg.jpg');
-  background-repeat: no-repeat;
-  background-color: transparent;
-  background-position: center;
-}
-
 .ana { background-image: url("assets/heroes/ana.png"); }
 .bastion { background-image: url("assets/heroes/bastion.png"); }
 .dva { background-image: url("assets/heroes/dva.png"); }
